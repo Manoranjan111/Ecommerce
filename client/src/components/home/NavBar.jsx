@@ -5,7 +5,7 @@ import { navData } from '../../constants/data'
 const Componenet = styled(Box)(({ theme }) => ({
     display: 'flex',
     margin: '55px 130px 0 130px',
-    justifyContent: 'space-between',
+    justifyContent: 'space-between', 
     // overflow: 'overlay',
     overflowX: 'hidden',
     
