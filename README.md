@@ -1,4 +1,4 @@
-# Flipkart Clone
+# Ecommerce
 
 This project is a clone of the popular e-commerce platform Flipkart. It includes a frontend developed using React and a backend developed using Node.js.
 
